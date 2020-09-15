@@ -1,2 +1,4 @@
 # git-group-morning
-const name = 'Junyi Chung'
+const name1 = 'Junyi Chung'
+const name = 'Mustafa Hepekiz'
+
