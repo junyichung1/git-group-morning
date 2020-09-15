@@ -1,1 +1,1 @@
-# git-group-morning
+const name = 'Michael Saul'
